@@ -1,2 +1,2 @@
 # Organic-semi-conductors
-Research paper discussing state of the art advances in organic semi-conductors fiels
+This   paper   reviews   the   Organic   Semiconductorsand  theory  behind  its  development  and  a  brief  of  the  history.around  developing  this  technology.  A  lot  of  it  will  discuss  thedistribution  of  energy  bands  in  organic  semiconductors  and  theoptical  properties  and  luminescence  effect  when  some  organicmaterials  such  as  Phthalocyanine  and  Polymers  such  as  poly-para-phenylene-vinylene. and will discuss OFET and applicationsof  Optical  Amplifiers.
